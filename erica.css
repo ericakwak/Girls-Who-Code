@@ -1,0 +1,30 @@
+body {
+	margin: 0px;
+}
+
+#box-one {
+	background-color: blue;
+	margin: 100px;
+	padding: 20px;
+} 
+
+#box-two {
+	background-color: yellow;
+	margin: 100px;
+	padding: 20px;
+}
+
+li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: black;
+	display: black;
+	width: 200px;
+	height: 30px;
+	background-color: gray;
+}
+
+li a:hover {
+	background-color: red;
+}
+
